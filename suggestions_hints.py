@@ -9,4 +9,4 @@ mc.postToChat(chat)
 
 
 # Przeczytajcie:
-- https://arghbox.wordpress.com/
+# - https://arghbox.wordpress.com/
